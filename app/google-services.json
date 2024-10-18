@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "578324632276",
+    "project_id": "fireall-d6165",
+    "storage_bucket": "fireall-d6165.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578324632276:android:1928b3d74d463a34a22141",
+        "android_client_info": {
+          "package_name": "com.example.fireall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbOASwRFpcdrvHm9M9R94wlCU23Mq35Rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
